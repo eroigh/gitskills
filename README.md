@@ -4,3 +4,6 @@ Creating a new branch is quick.
 
 这是main修改。
 在feature1分支修改
+
+在新的dev进行修改，测试合并策略
+
