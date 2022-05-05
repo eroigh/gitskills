@@ -1,6 +1,6 @@
 # gitskills
 
-Creating a new branch is quick.
+Creating a new branch is quick especially in issue101. 
 
 这是main修改。
 在feature1分支修改
